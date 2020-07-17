@@ -295,7 +295,7 @@ vendors:
     js: https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js
     css: https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css
     # auto_render: https://cdn.jsdelivr.net/npm/katex@latest/dist/contrib/auto-render.min.js
-    auto_render: https://cdn.jsdelivr.net/gh/atomicoo/hexo-theme-yun@master/source/js/katex/auto-render.min.js
+    auto_render: https://cdn.jsdelivr.net/gh/atomicoo/hexo-theme-yun@latest/source/js/katex/auto-render.min.js
     copy_tex:
       css: https://cdn.jsdelivr.net/npm/katex@latest/dist/contrib/copy-tex.min.css
       js: https://cdn.jsdelivr.net/npm/katex@latest/dist/contrib/copy-tex.min.js
